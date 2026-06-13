@@ -1,4 +1,4 @@
-# NZ Aquaculture — Distribution Economics Model
+ NZ Aquaculture — Distribution Economics Model
 
 An interactive financial model of New Zealand aquaculture distribution economics, covering King salmon and Greenshell mussels. It traces margin capture from farm gate to consumer and compares export, foodservice, and direct-to-consumer channels. All headline figures are anchored to published 2023–2025 industry data (sources listed in-app).
 
